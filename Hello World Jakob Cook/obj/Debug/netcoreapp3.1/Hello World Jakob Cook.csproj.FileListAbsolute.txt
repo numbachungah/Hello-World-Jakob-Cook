@@ -1,0 +1,13 @@
+C:\Users\jakob.cook\source\repos\Hello World Jakob Cook\Hello World Jakob Cook\obj\Debug\netcoreapp3.1\Hello World Jakob Cook.csproj.AssemblyReference.cache
+C:\Users\jakob.cook\source\repos\Hello World Jakob Cook\Hello World Jakob Cook\obj\Debug\netcoreapp3.1\Hello World Jakob Cook.AssemblyInfoInputs.cache
+C:\Users\jakob.cook\source\repos\Hello World Jakob Cook\Hello World Jakob Cook\obj\Debug\netcoreapp3.1\Hello World Jakob Cook.AssemblyInfo.cs
+C:\Users\jakob.cook\source\repos\Hello World Jakob Cook\Hello World Jakob Cook\obj\Debug\netcoreapp3.1\Hello World Jakob Cook.csproj.CoreCompileInputs.cache
+C:\Users\jakob.cook\source\repos\Hello World Jakob Cook\Hello World Jakob Cook\bin\Debug\netcoreapp3.1\Hello World Jakob Cook.exe
+C:\Users\jakob.cook\source\repos\Hello World Jakob Cook\Hello World Jakob Cook\bin\Debug\netcoreapp3.1\Hello World Jakob Cook.deps.json
+C:\Users\jakob.cook\source\repos\Hello World Jakob Cook\Hello World Jakob Cook\bin\Debug\netcoreapp3.1\Hello World Jakob Cook.runtimeconfig.json
+C:\Users\jakob.cook\source\repos\Hello World Jakob Cook\Hello World Jakob Cook\bin\Debug\netcoreapp3.1\Hello World Jakob Cook.runtimeconfig.dev.json
+C:\Users\jakob.cook\source\repos\Hello World Jakob Cook\Hello World Jakob Cook\bin\Debug\netcoreapp3.1\Hello World Jakob Cook.dll
+C:\Users\jakob.cook\source\repos\Hello World Jakob Cook\Hello World Jakob Cook\bin\Debug\netcoreapp3.1\Hello World Jakob Cook.pdb
+C:\Users\jakob.cook\source\repos\Hello World Jakob Cook\Hello World Jakob Cook\obj\Debug\netcoreapp3.1\Hello World Jakob Cook.dll
+C:\Users\jakob.cook\source\repos\Hello World Jakob Cook\Hello World Jakob Cook\obj\Debug\netcoreapp3.1\Hello World Jakob Cook.pdb
+C:\Users\jakob.cook\source\repos\Hello World Jakob Cook\Hello World Jakob Cook\obj\Debug\netcoreapp3.1\Hello World Jakob Cook.genruntimeconfig.cache
